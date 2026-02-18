@@ -1,0 +1,11 @@
+.src-folder{
+    display: flex;
+    align-items: center;
+    margin-left: 30px;
+    width: 90%;
+}
+
+.src-folder img{
+  width: 45px;
+    margin-right: 10px;
+}

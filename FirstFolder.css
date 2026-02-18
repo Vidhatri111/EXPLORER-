@@ -1,0 +1,10 @@
+.first-folder{
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+}
+
+.first-folder img{
+  width: 45px;
+    margin-right: 10px;
+}

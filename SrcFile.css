@@ -1,0 +1,13 @@
+.src-file{
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 50px;
+    width: 90%;
+}
+
+.src-file img{
+    width: 30px;
+    margin-right: 10px;
+}
